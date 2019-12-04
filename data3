@@ -1,0 +1,26 @@
+outlook temperature humidity windy play
+yes no
+overcast hot high not no
+overcast hot high very no
+overcast hot high medium no
+sunny hot high not yes
+sunny hot high medium yes
+rain mild high not no
+rain mild high medium no
+rain hot normal not yes
+rain cool normal medium no
+rain hot normal very no
+sunny cool normal very yes
+sunny cool normal medium yes
+overcast mild high not no
+overcast mild high medium no
+overcast cool normal not yes
+overcast cool normal medium yes
+rain mild normal not no
+rain mild normal medium no
+overcast mild normal medium yes
+overcast mild normal very yes
+sunny mild high very yes
+sunny mild high medium yes
+sunny hot normal not yes
+rain mild high very no
